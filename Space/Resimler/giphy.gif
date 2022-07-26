@@ -1,0 +1,112 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="Trippy / Abstract Animated GIFs - Pi-Slices">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+        <meta property="fb:app_id" content="406655189415060">
+    <meta property="og:site_name" content="GIPHY">
+    <meta property="og:url" content="https://i.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif">
+    <meta property="og:title" content="Loop 3D GIF by Pi-Slices - Find &amp; Share on GIPHY">
+    <meta property="og:description" content="Trippy / Abstract Animated GIFs - Pi-Slices">
+
+    
+
+    
+    <meta property="og:type" content="video.other">
+    <meta property="og:image" content="https://i.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif">
+    <meta property="og:image:type" content="image/gif">
+    <meta property="og:image:width" content="500">
+    <meta property="og:image:height" content="500">
+    
+    
+    <meta property="og:video" content="https://i.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.mp4">
+    <meta property="og:video:url" content="https://i.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.mp4">
+    <meta property="og:video:secure_url" content="https://i.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.mp4">
+    <meta property="og:video:type" content="video/mp4">
+    <meta property="og:video:width" content="500">
+    <meta property="og:video:height" content="500">
+    
+
+    <meta name="twitter:account_id" content="1020383864" />
+    <meta name="twitter:card" content="player">
+    <meta name="twitter:title" content="Loop 3D GIF by Pi-Slices - Find &amp; Share on GIPHY">
+    <meta name="twitter:creator" content="pislices">
+    <meta name="twitter:site" content="@giphy">
+    <meta name="twitter:description" content="Trippy / Abstract Animated GIFs - Pi-Slices">
+    
+    <meta name="twitter:image:src" content="https://i.giphy.com/media/RHIKETUlUINYvV7CAO/giphy_s.gif">
+    <meta name="twitter:image" content="https://i.giphy.com/media/RHIKETUlUINYvV7CAO/giphy_s.gif">
+    
+    <meta name="twitter:domain" content="giphy.com">
+
+    
+    <meta name="twitter:player" content="https://giphy.com/embed/RHIKETUlUINYvV7CAO/twitter/iframe">
+    <meta name="twitter:player:width" content="435">
+    <meta name="twitter:player:height" content="435">
+    
+
+    
+    <meta name="rating" content="general">
+    <meta name="image:rating" content="pg">
+    
+
+    <!-- /twitter seo -->
+
+    <meta name="description" content="Trippy / Abstract Animated GIFs - Pi-Slices"/>
+    <meta name="author" content="GIPHY"/>
+    <meta name="keywords" content="loop, trippy, 3d, space, black and white, star, stars, abstract, minimal, twinkle, pi-slices, outer space, GIF, Animated GIF">
+    <meta name="pinterest" content="nohover">
+
+    
+    <link rel="alternate" type="application/json+oembed" href="https://giphy.com/services/oembed?url=https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif" title="Loop 3D GIF by Pi-Slices - Find &amp; Share on GIPHY oEmbed Lookup" />
+    
+    <title>Loop 3D GIF by Pi-Slices - Find &amp; Share on GIPHY</title>
+  </head>
+  <body style="background-color:#121212">
+    <article class="media">
+        
+        <img src="https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/200w_s.gif" alt=""
+            style="position:absolute;left:50%;top:50%;width:480px;-webkit-transform:translate(-50%,-50%);-moz-transform:translate(-50%,-50%);transform:translate(-50%,-50%);" />
+        
+    </article>
+
+    <!--DIDOMI-->
+    <script type="text/javascript">window.gdprAppliesGlobally=true;(function(){function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)}
+      else{setTimeout(function(){a(e)},5)}}}function e(n,r,o,c,s){function e(e,t,n,a){if(typeof n!=="function"){return}if(!window[r]){window[r]=[]}var i=false;if(s){i=s(e,t,n)}if(!i){window[r].push({command:e,parameter:t,callback:n,version:a})}}e.stub=true;function t(a){if(!window[n]||window[n].stub!==true){return}if(!a.data){return}
+      var i=typeof a.data==="string";var e;try{e=i?JSON.parse(a.data):a.data}catch(t){return}if(e[o]){var r=e[o];window[n](r.command,r.parameter,function(e,t){var n={};n[c]={returnValue:e,success:t,callId:r.callId};a.source.postMessage(i?JSON.stringify(n):n,"*")},r.version)}}
+      if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");a("__tcfapiLocator");(function(e){
+        var t=document.createElement("script");t.id="spcloader";t.type="text/javascript";t.async=true;t.src="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname;t.charset="utf-8";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)})("8878f527-7872-49a5-abd4-f6b2e56cb64a")})();</script>          <!-- END DIDOMI -->
+
+    <!-- Google Analytics -->
+    <script type="didomi/javascript" data-vendor="c:googleana-jHcphUGX">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-38174542-34', 'auto');
+    ga('require', 'GTM-WXRB58X');
+    
+    ga('send', 'pageview');
+    </script>
+    <!-- End Google Analytics -->
+    <script src="/static/dist/runtime.ef4f58ac.bundle.js"></script>
+    <script src="/static/dist/mediaLanding.1b696d94.bundle.js"></script>
+    <script>
+        var Giphy = Giphy || {};
+        if (Giphy.renderMediaLanding) {
+            Giphy.renderMediaLanding(document.querySelector('.media'), {
+                gif: {"id": "RHIKETUlUINYvV7CAO", "title": "Loop 3D GIF by Pi-Slices", "images": {"looping": {"mp4": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/giphy-loop.mp4", "mp4_size": 394026}, "source": {"url": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/source.gif", "width": 500, "height": 500, "size": 146521}, "downsized": {"url": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif", "width": 500, "height": 500, "size": 141495}, "downsized_large": {"url": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif", "width": 500, "height": 500, "size": 141495}, "downsized_medium": {"url": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif", "width": 500, "height": 500, "size": 141495}, "downsized_small": {"width": 500, "height": 500, "mp4": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/giphy-downsized-small.mp4", "mp4_size": 54950}, "downsized_still": {"url": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/giphy_s.gif", "width": 500, "height": 500, "size": 141495}, "fixed_height": {"url": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/200.gif", "width": 200, "height": 200, "size": 66877, "mp4": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/200.mp4", "mp4_size": 21231, "webp": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/200.webp", "webp_size": 41122}, "fixed_height_downsampled": {"url": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/200_d.gif", "width": 200, "height": 200, "size": 9158, "webp": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/200_d.webp", "webp_size": 11010}, "fixed_height_small": {"url": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/100.gif", "width": 100, "height": 100, "size": 33943, "mp4": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/100.mp4", "mp4_size": 9239, "webp": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/100.webp", "webp_size": 12982}, "fixed_height_small_still": {"url": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/100_s.gif", "width": 100, "height": 100, "size": 1231}, "fixed_height_still": {"url": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/200_s.gif", "width": 200, "height": 200, "size": 2609}, "fixed_width": {"url": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/200w.gif", "width": 200, "height": 200, "size": 66877, "mp4": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/200w.mp4", "mp4_size": 21231, "webp": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/200w.webp", "webp_size": 41122}, "fixed_width_downsampled": {"url": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/200w_d.gif", "width": 200, "height": 200, "size": 9158, "webp": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/200w_d.webp", "webp_size": 11010}, "fixed_width_small": {"url": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/100w.gif", "width": 100, "height": 100, "size": 33943, "mp4": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/100w.mp4", "mp4_size": 9239, "webp": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/100w.webp", "webp_size": 12982}, "fixed_width_small_still": {"url": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/100w_s.gif", "width": 100, "height": 100, "size": 1231}, "fixed_width_still": {"url": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/200w_s.gif", "width": 200, "height": 200, "size": 2609}, "original": {"url": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif", "width": 500, "height": 500, "size": 141495, "frames": 60, "hash": "2f58a462a2e5e28bac9861c7aa8359f5", "mp4": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.mp4", "mp4_size": 54855, "webp": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.webp", "webp_size": 105640}, "original_mp4": {"width": 480, "height": 480, "mp4": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.mp4", "mp4_size": 54855}, "original_still": {"url": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/giphy_s.gif", "width": 500, "height": 500, "size": 6956}, "preview": {"width": 450, "height": 450, "mp4": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/giphy-preview.mp4", "mp4_size": 26595}, "preview_gif": {"url": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/giphy-preview.gif", "width": 500, "height": 500, "size": 27073}, "preview_webp": {"url": "https://media2.giphy.com/media/RHIKETUlUINYvV7CAO/giphy-preview.webp", "width": 500, "height": 500, "size": 42542}}, "is_video": false, "tags": ["loop", "trippy", "3d", "space", "black and white", "star", "stars", "abstract", "minimal", "twinkle", "pi-slices", "outer space"], "cta": {"text": "", "link": ""}, "featured_tags": [], "embed_url": "https://giphy.com/embed/RHIKETUlUINYvV7CAO", "relative_url": "/gifs/trippy-abstract-pi-slices-RHIKETUlUINYvV7CAO", "type": "gif", "index_id": 67192167, "slug": "trippy-abstract-pi-slices-RHIKETUlUINYvV7CAO", "url": "https://giphy.com/gifs/trippy-abstract-pi-slices-RHIKETUlUINYvV7CAO", "short_url": "https://gph.is/2wMPBy4", "bitly_url": "https://gph.is/2wMPBy4", "username": "pislices", "rating": "pg", "source_image_url": "https://78.media.tumblr.com/972a1ff99840fa9a7d19f3e108a28970/tumblr_peie9n4pQr1txe8seo1_500.gif", "source_post_url": "http://pislices.ca", "source_content_url": "", "source_tld": "pislices.ca", "source_domain": "http://pislices.ca", "source_caption": "", "source_body": "", "has_attribution": false, "is_hidden": false, "is_removed": false, "is_community": false, "is_anonymous": false, "is_featured": false, "is_realtime": false, "is_indexable": false, "is_sticker": false, "is_preserve_size": false, "is_trending": false, "gps_no_trend": false, "create_datetime": "2018-09-06T18:04:57+0000", "update_datetime": "2019-09-04T23:35:55+0000", "trending_datetime": null, "external_media": null, "import_type": null, "user": {"id": 38200, "username": "pislices", "avatar_url": "https://media.giphy.com/avatars/pislices/Shmn6hpof8QT.gif", "display_name": "Pi-Slices", "user_type": "artist", "twitter": "pislices", "is_public": true, "is_verified": true, "is_freelance": true, "is_community": false, "suppress_chrome": false, "website_url": "http://pislices.art/", "twitter_url": "https://twitter.com/pislices", "facebook_url": "http://facebook.com/PiSlices", "instagram_url": "https://instagram.com/pislices", "tumblr_url": "http://pi-slices.tumblr.com", "tiktok_url": null, "youtube_url": null, "attribution_display_name": "Pi-Slices", "disable_freelance_popup": false, "name": "Pi-Slices", "about_bio": "GIF Artist. For commission inquiries or to license use of my GIFs, email pi-slices@hotmail.com. NFT links: pislices.art/NFT", "description": "GIF Artist. For commission inquiries or to license use of my GIFs, email pi-slices@hotmail.com. NFT links: pislices.art/NFT", "profile_url": "/pislices", "profile_path": "/pislices", "website_display_url": "pislices.art"}},
+                giphyUrl: 'https://giphy.com/',
+                renditionFilename: 'giphy.gif',
+                trackingQueryString: 'utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://giphy.com/'
+            });
+        }
+    </script>
+  </body>
+</html>
